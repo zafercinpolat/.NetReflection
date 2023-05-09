@@ -1,0 +1,11 @@
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\bin\Debug\Plug.Reflection.exe.config
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\bin\Debug\Plug.Reflection.exe
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\bin\Debug\Plug.Reflection.pdb
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.csproj.AssemblyReference.cache
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.Form1.resources
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.Properties.Resources.resources
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.csproj.GenerateResource.cache
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.csproj.CoreCompileInputs.cache
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.exe
+C:\Source\.NetReflection\Plug.Reflection\Plug.Reflection\obj\Debug\Plug.Reflection.pdb

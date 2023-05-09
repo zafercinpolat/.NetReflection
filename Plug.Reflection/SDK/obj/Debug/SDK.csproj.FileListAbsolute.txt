@@ -1,0 +1,6 @@
+C:\Source\.NetReflection\Plug.Reflection\SDK\bin\Debug\SDK.dll
+C:\Source\.NetReflection\Plug.Reflection\SDK\bin\Debug\SDK.pdb
+C:\Source\.NetReflection\Plug.Reflection\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Source\.NetReflection\Plug.Reflection\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Source\.NetReflection\Plug.Reflection\SDK\obj\Debug\SDK.dll
+C:\Source\.NetReflection\Plug.Reflection\SDK\obj\Debug\SDK.pdb
